@@ -5,8 +5,8 @@
 
 ### To deploy in Cloud Shell, where 'volatility-portfolio-bot' is my project ID
 ```
-git clone https://github.com/adam-jb/gke_flask_example.git
-cd gke_flask_example
+git clone https://github.com/adam-jb//gke_flask_gsutil_trigger_api.git
+cd gke_flask_gsutil_trigger_api
 
 # get ID of current GCP project
 PROJECT_ID=$(gcloud config get-value project) 
